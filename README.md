@@ -1,4 +1,9 @@
 # Fast and Real Time Pyqt Graph
+
+## Introduction
+
+Developed this for internal data analysis of UHF RFID Tags at Ultimuslab.
+
 ### High FPS Multiple 1D Time Series Data Plotter
 
 ![Sample-Output](sampleOutput.gif)
